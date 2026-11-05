@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-payment-reconciliation-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-payment-reconciliation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-payment-reconciliation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/payment-reconciliation.md",
+  "presentationPlan": "projects/accounting/nuxt/payment-reconciliation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
